@@ -1,0 +1,21 @@
+{
+  "name": "Guess-My-Number",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "homepage": "https://zeepharaoh.github.io/Guess-My-Numbern",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeepharaoh/Guess-My-Number.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zeepharaoh/Guess-My-Number/issues"
+  }
+}
